@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\Ch02\\InvoiceTotal\\InvoiceTotal.slnx",
+    "projects": [
+      "InvoiceTotal\\InvoiceTotal.csproj"
+    ]
+  }
+}
